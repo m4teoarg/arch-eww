@@ -1,4 +1,5 @@
 Archlinux awesome eww
+![Deja una estrella. Comparte.](https://github.com/m4teoarg/bspwm-archlinux/blob/main/images/dotfile.png)
  1. Install dependencies and enable services
 
       + Dependencies
@@ -8,9 +9,9 @@ Archlinux awesome eww
             *Assuming your AUR helper is* `yay`
 
             ```shell
-            yay -Sy awesome-git picom-git alacritty rofi todo-bin acpi acpid \
+            yay -Sy awesome-git picom-git rofi todo-bin acpi acpid \
             wireless_tools jq inotify-tools polkit-gnome xdotool xclip maim \
-            brightnessctl alsa-utils alsa-tools pulseaudio lm_sensors \
+            brightnessctl alsa-utils alsa-tools lm_sensors \
             mpd mpc mpdris2 ncmpcpp playerctl --needed 
             ```
 
