@@ -1,5 +1,5 @@
 Archlinux awesome eww
-![Deja una estrella. Comparte.](https://github.com/m4teoarg/bspwm-archlinux/blob/main/images/dotfile.png)
+![Deja una estrella. Comparte.](https://github.com/m4teoarg/arch-eww/blob/eww/images/a.png)
  1. Install dependencies and enable services
 
       + Dependencies
